@@ -1,0 +1,12 @@
+var line1 = "_____________________________________________";
+console.log(line1);
+console.log(5 + 3);
+var line2 = "_____________________________________________";
+console.log(line2);
+console.log(5 + 3);
+var line3 = "_____________________________________________";
+console.log(line3);
+console.log(5 + 3);
+var line4 = "_____________________________________________";
+console.log(line4);
+console.log(5 + 3);
